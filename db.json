@@ -25,7 +25,7 @@
       "title": "Apple watch 56"
     }
   ],
-  "extraItem": {
+  "extraItem": [
     {
       "id": 1,
       "category": "Smart Home",
@@ -43,8 +43,8 @@
     },
         {
       "id": 4,
-      "category": "Smart Home afafaf".
+      "category": "Smart Home afafaf",
       "count": 25
     }
-  }
+  ]
 }
