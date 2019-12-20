@@ -1,30 +1,29 @@
 {
   "items": [
-    [{
-      {"id": 1},
-      {"title": "Apple"}
-    }],
-    [{
-      {"id": 2},
-      {"title": "Apple watch"}
-    }],
-    [{
-      {"id": 3},
-      {"title": "Apple watch 4"}
-    }],
-    [{
-      {"id": 4},
-      {"title": "Apple2"}
-    }],
-    [{
-      {"id": 5},
-      {"title": "Apple watch41"}
-    }],
-    [{
-      {"id": 6},
-      {"title": "Apple watch 56"}
-    }]
-  ],
+    {
+      "id": 1,
+      "title": "Apple"
+    },
+    {
+      "id": 2,
+      "title": "Apple watch"
+    },
+    {
+      "id": 3,
+      "title": "Apple watch 4"
+    },
+    {
+      "id": 4,
+      "title": "Apple2"
+    },
+    {
+      "id": 5,
+      "title": "Apple watch41"
+    },
+    {
+      "id": 6,
+      "title": "Apple watch 56"
+    }
   "extraItem": [
     {
       "id": 1,
