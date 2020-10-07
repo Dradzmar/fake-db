@@ -1,50 +1,728 @@
-{
-   "items":[
+[
+
+  {
+    "id": "0",
+    "name": "Anastasia",
+    "mainPhoto": "1.jpg",
+    "profileStatus": [
+      "verified",
+      "top",
+      "vip"
+    ],
+    "galleryFirst": [
       {
-         "id":1,
-         "title":"Apple"
+        "src": "https://20.ua/media-resize/company_large/diamond-models-403333.jpeg?timestamp=1578502229",
+        "width": "big",
+        "height": 408
       },
       {
-         "id":2,
-         "title":"Apple watch"
+        "src": "https://www.modelmanagement.com/blog/library/uploads/Top-Ten-Most-Popular-Female-Models-In-2014-8.jpg",
+        "width": "small",
+        "height": 192
       },
       {
-         "id":3,
-         "title":"Apple watch 4"
+        "src": "4.jpg",
+        "width": "small",
+        "height": 408
       },
       {
-         "id":4,
-         "title":"Apple2"
-      },
-      {
-         "id":5,
-         "title":"Apple watch41"
-      },
-      {
-         "id":6,
-         "title":"Apple watch 56"
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "small",
+        "height": 192
       }
-   ],
-   "extraItem":[
+
+
+
+    ],
+    "gallerySecond": [
       {
-         "id":1,
-         "category":"Smart Home",
-         "count":25
+        "src": "https://20.ua/media-resize/company_large/diamond-models-403333.jpeg?timestamp=1578502229",
+        "width": "small",
+        "height": 192
       },
       {
-         "id":2,
-         "category":"Smart Home Brands",
-         "count":25
+        "src": "https://www.modelmanagement.com/blog/library/uploads/Top-Ten-Most-Popular-Female-Models-In-2014-8.jpg",
+        "width": "small",
+        "height": 192
       },
       {
-         "id":3,
-         "category":"Smart Home AHIOU",
-         "count":25
+        "src": "4.jpg",
+        "width": "big",
+        "height": 408
       },
       {
-         "id":4,
-         "category":"Smart Home afafaf",
-         "count":25
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "small",
+        "height": 192
+      },
+      {
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "small",
+        "height": 192
+      },
+      {
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "big",
+        "height": 192
+      },
+      {
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "small",
+        "height": 192
+      },
+      {
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "small",
+        "height": 192
+      },
+      {
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "small",
+        "height": 192
+      },
+      {
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "small",
+        "height": 192
+      },
+      {
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "small",
+        "height": 192
+      },
+      {
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "small",
+        "height": 192
       }
-   ]
-}
+
+    ],
+    "status":{
+      "date": "03/03/20",
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+    },
+    "myDetails": [{
+      "nationality": "Russian",
+      "age": "22",
+      "height": "175",
+      "weight": "52",
+      "cupsize": "2",
+      "breast": "Silicone",
+      "measurement": "90/60/90",
+      "hairColor": "Brunete",
+      "eyeColor": "Brown",
+      "publicHair": "Shaved",
+      "tatoos": "No",
+      "piercing": "No",
+      "languages": [{
+          "id": 0,
+          "lang": "Russian",
+          "level": 5
+        },
+        {
+          "id": 1,
+          "lang": "English",
+          "level": 5
+        },
+        {
+          "id": 2,
+          "lang": "Arabian",
+          "level": 1
+        }
+      ]
+    }],
+    "serviceDetails": [{
+      "serviceFor": [
+        "Man",
+        "Woman",
+        "Couples"
+      ],
+      "service": [
+        "Classic",
+        "Parties",
+        "Group Sex",
+        "Uniform",
+        "Role Play",
+        "Franch Kissing"
+      ],
+      "companionshipRates": [{
+          "time": "1 hour",
+          "price": "200"
+        },
+        {
+          "time": "2 hour",
+          "price": "500"
+        },
+        {
+          "time": "24 hours",
+          "price": "1200"
+        }
+      ]
+    }],
+    "location": [{
+
+      "baseCity": "Dubai",
+      "cityZone": "Business Bay",
+
+      "onTourNow": [{
+          "id": 0,
+          "date": "03/06-07/06",
+          "city": "Bubai Marina"
+        },
+        {
+          "id": 1,
+          "date": "08/06-10/06",
+          "city": "Doha"
+        }
+      ]
+    }],
+    "contactInformation": [{
+      "phone": "+380671111111",
+      "whatsapp": "+380682222222",
+      "twitter": "@superkitty",
+      "instagram": "@super_kitty"
+    }],
+    "aboutMe": [{
+      "sexualOrientation": [
+        "Heterosexual"
+      ],
+      "availableFor": [
+        "Incall",
+        "Outcall",
+        "Online"
+      ],
+	  "articles": [
+		{
+		  "id": 0,
+		  "title": "Hello to All Gallant Men",
+		  "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+		},
+		{
+		  "id": 1,
+		  "title": "Conditions of Meetigs",
+		  "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+		}
+	]
+    }],
+    "myGift": [
+		{
+        "id": 0,
+        "time": "30 minutes",
+        "price": 100
+      },
+      {
+        "id": 1,
+        "time": "1 hour",
+        "price": 200
+      },
+      {
+        "id": 2,
+        "time": "2 hours",
+        "price": 300
+      },
+      {
+        "id": 3,
+        "time": "3 hours",
+        "price": 500
+      },
+      {
+        "id": 4,
+        "time": "1 overnight",
+        "price": 1000
+      }
+    ],
+    "comments": [
+      {
+        "logo": "1.png",
+        "login": "John Smith",
+        "date": "10/10/2020",
+        "appearance": 5,
+        "massage": 2,
+        "msg": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+      },
+      {
+        "logo": "2.png",
+        "login": "Yoland Bashid",
+        "date": "10/10/2020",
+        "appearance": 2,
+        "massage": 4,
+        "msg": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+      },
+      {
+        "logo": "3.png",
+        "login": "Yan Dzu",
+        "date": "10/10/2020",
+        "appearance": 4,
+        "massage": 2,
+        "msg": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+        "reply": [
+          {
+            "logo": "4.png",
+            "login": "Samantha153",
+            "date": "10/10/2020",
+            "msg": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et"
+          }
+        ]
+      }
+    ]
+
+  },
+  {
+    "id": "1",
+    "name": "Helga",
+    "mainPhoto": "2.jpg",
+    "profileStatus": [
+      "verified",
+      "top"
+    ],
+    "galleryFirst": [
+      {
+        "src": "https://20.ua/media-resize/company_large/diamond-models-403333.jpeg?timestamp=1578502229",
+        "width": "big",
+        "height": 408
+      },
+      {
+        "src": "https://www.modelmanagement.com/blog/library/uploads/Top-Ten-Most-Popular-Female-Models-In-2014-8.jpg",
+        "width": "small",
+        "height": 192
+      },
+      {
+        "src": "4.jpg",
+        "width": "small",
+        "height": 408
+      },
+      {
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "small",
+        "height": 192
+      }
+    ],
+    "gallerySecond": [
+      {
+        "src": "https://20.ua/media-resize/company_large/diamond-models-403333.jpeg?timestamp=1578502229",
+        "width": "small",
+        "height": 192
+      },
+      {
+        "src": "https://www.modelmanagement.com/blog/library/uploads/Top-Ten-Most-Popular-Female-Models-In-2014-8.jpg",
+        "width": "small",
+        "height": 192
+      },
+      {
+        "src": "4.jpg",
+        "width": "big",
+        "height": 408
+      },
+      {
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "small",
+        "height": 192
+      }
+
+    ],
+    "status":{
+      "date": "03/03/20",
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+    },
+    "myDetails": [{
+      "nationality": "Russian",
+      "age": "20",
+      "height": "167",
+      "weight": "51",
+      "cupsize": "2.5",
+      "breast": "Silicone",
+      "measurement": "90/60/90",
+      "hairColor": "Brunete",
+      "eyeColor": "Brown",
+      "publicHair": "Shaved",
+      "tatoos": "No",
+      "piercing": "No",
+      "languages": [
+
+        {
+          "id": 0,
+          "lang": "Russian",
+          "level": 5
+        },
+        {
+          "id": 1,
+          "lang": "English",
+          "level": 5
+        },
+        {
+          "id": 2,
+          "lang": "Arabian",
+          "level": 1
+        }
+
+      ]
+    }],
+    "serviceDetails": [{
+      "serviceFor": [
+        "Man",
+        "Woman",
+        "Couples"
+      ],
+      "service": [
+        "Classic",
+        "Parties",
+        "Group Sex",
+        "Uniform",
+        "Role Play",
+        "Franch Kissing"
+      ],
+      "companionshipRates": [{
+          "time": "1 hour",
+          "price": "200"
+        },
+        {
+          "time": "2 hour",
+          "price": "500"
+        },
+        {
+          "time": "24 hours",
+          "price": "1200"
+        }
+      ]
+    }],
+    "location": [{
+
+      "baseCity": "Dubai",
+      "cityZone": "Business Bay",
+
+      "onTourNow": [{
+          "id": 0,
+          "date": "03/06-07/06",
+          "city": "Bubai Marina"
+        },
+        {
+          "id": 1,
+          "date": "08/06-10/06",
+          "city": "Doha"
+        }
+      ]
+    }],
+    "contactInformation": [{
+      "phone": "+38067 1111111",
+      "whatsapp": "+380953333333",
+      "twitter": "@superkandy",
+      "instagram": "@super_kandy"
+    }],
+    "aboutMe": [{
+      "sexualOrientation": [
+        "Heterosexual"
+      ],
+      "availableFor": [
+        "Incall",
+        "Outcall",
+        "Online"
+	  ],
+	  "articles": [
+		  {
+			"id": 0,
+			"title": "Hello to All Gallant Men",
+			"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+		  },
+		  {
+			"id": 1,
+			"title": "Conditions of Meetigs",
+			"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+		  }
+	  ]
+
+    }],
+    "myGift": [
+		{
+        "id": 0,
+        "time": "30 minutes",
+        "price": 100
+      },
+      {
+        "id": 1,
+        "time": "1 hour",
+        "price": 200
+      },
+      {
+        "id": 2,
+        "time": "2 hours",
+        "price": 300
+      },
+      {
+        "id": 3,
+        "time": "3 hours",
+        "price": 500
+      },
+      {
+        "id": 4,
+        "time": "1 overnight",
+        "price": 1000
+      }
+    ],
+    "comments": [
+      {
+        "logo": "1.png",
+        "login": "John Smith",
+        "date": "10/10/2020",
+        "appearance": 5,
+        "massage": 2,
+        "msg": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+      },
+      {
+        "logo": "2.png",
+        "login": "Yoland Bashid",
+        "date": "10/10/2020",
+        "appearance": 2,
+        "massage": 4,
+        "msg": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+      },
+      {
+        "logo": "3.png",
+        "login": "Yan Dzu",
+        "date": "10/10/2020",
+        "appearance": 4,
+        "massage": 2,
+        "msg": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+        "reply": [
+          {
+            "logo": "4.png",
+            "login": "Samantha153",
+            "date": "10/10/2020",
+            "msg": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Marina",
+    "mainPhoto": "3.jpg",
+    "profileStatus": [
+      "verified",
+      "top"
+    ],
+    "galleryFirst": [
+      {
+        "src": "https://20.ua/media-resize/company_large/diamond-models-403333.jpeg?timestamp=1578502229",
+        "width": "big",
+        "height": 408
+      },
+      {
+        "src": "https://www.modelmanagement.com/blog/library/uploads/Top-Ten-Most-Popular-Female-Models-In-2014-8.jpg",
+        "width": "small",
+        "height": 192
+      },
+      {
+        "src": "4.jpg",
+        "width": "small",
+        "height": 408
+      },
+      {
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "small",
+        "height": 192
+      }
+
+
+    ],
+    "gallerySecond": [
+      {
+        "src": "https://20.ua/media-resize/company_large/diamond-models-403333.jpeg?timestamp=1578502229",
+        "width": "small",
+        "height": 192
+      },
+      {
+        "src": "https://www.modelmanagement.com/blog/library/uploads/Top-Ten-Most-Popular-Female-Models-In-2014-8.jpg",
+        "width": "small",
+        "height": 192
+      },
+      {
+        "src": "4.jpg",
+        "width": "big",
+        "height": 408
+      },
+      {
+        "src": "https://mediaslide-europe.storage.googleapis.com/basemodels/news_pictures/2020/02/large-1581604736-b3e96f632f04fc94a46f59d0dc08ec0a.jpg",
+        "width": "small",
+        "height": 192
+      }
+
+    ],
+    "status":{
+      "date": "03/03/20",
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+    },
+    "myDetails": [{
+      "nationality": "Russian",
+      "age": "24",
+      "height": "171",
+      "weight": "52",
+      "cupsize": "2",
+      "breast": "Silicone",
+      "measurement": "90/60/90",
+      "hairColor": "Blonde",
+      "eyeColor": "Green",
+      "publicHair": "Shaved",
+      "tatoos": "Yes",
+      "piercing": "No",
+      "languages": [
+
+        {
+          "id": 0,
+          "lang": "Russian",
+          "level": 5
+        },
+        {
+          "id": 1,
+          "lang": "English",
+          "level": 5
+        },
+        {
+          "id": 2,
+          "lang": "Arabian",
+          "level": 1
+        }
+
+      ]
+
+
+    }],
+    "serviceDetails": [{
+      "serviceFor": [
+        "Man",
+        "Woman",
+        "Couples"
+      ],
+      "service": [
+        "Classic",
+        "Parties",
+        "Group Sex",
+        "Uniform",
+        "Role Play",
+        "Franch Kissing"
+      ],
+      "companionshipRates": [
+		{
+          "time": "1 hour",
+          "price": "200"
+        },
+        {
+          "time": "2 hour",
+          "price": "500"
+        },
+        {
+          "time": "24 hours",
+          "price": "1200"
+        }
+      ]
+    }],
+    "location": [{
+
+      "baseCity": "Dubai",
+      "cityZone": "Business Bay",
+
+      "onTourNow": [{
+          "id": 0,
+          "date": "03/06-07/06",
+          "city": "Bubai Marina"
+        },
+        {
+          "id": 1,
+          "date": "08/06-10/06",
+          "city": "Doha"
+        }
+      ]
+    }],
+    "contactInformation": [{
+      "phone": "+38067 1111111",
+      "whatsapp": "+380682222222",
+      "twitter": "@supersweety",
+      "instagram": "@super_sweety"
+    }],
+    "aboutMe": [{
+      "sexualOrientation": [
+        "Heterosexual"
+      ],
+      "availableFor": [
+        "Incall",
+        "Outcall",
+        "Online"
+      ],
+	  "articles": [
+		{
+		  "id": 0,
+		  "title": "Hello to All Gallant Men",
+		  "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+		},
+		{
+		  "id": 1,
+		  "title": "Conditions of Meetigs",
+		  "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+		}
+	]
+    }],
+    "myGift": [
+		{
+        "id": 0,
+        "time": "30 minutes",
+        "price": 100
+      },
+      {
+        "id": 1,
+        "time": "1 hour",
+        "price": 200
+      },
+      {
+        "id": 2,
+        "time": "2 hours",
+        "price": 300
+      },
+      {
+        "id": 3,
+        "time": "3 hours",
+        "price": 500
+      },
+      {
+        "id": 4,
+        "time": "1 overnight",
+        "price": 1000
+      }
+    ],
+    "comments": [
+      {
+        "logo": "1.png",
+        "login": "John Smith",
+        "date": "10/10/2020",
+        "appearance": 5,
+        "massage": 2,
+        "msg": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+      },
+      {
+        "logo": "2.png",
+        "login": "Yoland Bashid",
+        "date": "10/10/2020",
+        "appearance": 2,
+        "massage": 4,
+        "msg": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+      },
+      {
+        "logo": "3.png",
+        "login": "Yan Dzu",
+        "date": "10/10/2020",
+        "appearance": 4,
+        "massage": 2,
+        "msg": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+        "reply": [
+          {
+            "logo": "4.png",
+            "login": "Samantha153",
+            "date": "10/10/2020",
+            "msg": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et"
+          }
+        ]
+      }
+    ]
+
+  }
+
+]
